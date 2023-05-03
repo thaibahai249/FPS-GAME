@@ -1,0 +1,567 @@
+fileFormatVersion: 2
+guid: b2594e0c753c6d94fb41e70aba02d410
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: AK74M
+    100002: AK74M.001
+    100004: AK74M.002
+    100006: AK74M.003
+    100008: AK74M.004
+    100010: b pack war1 low
+    100012: base soldier1
+    100014: body add war1 low
+    100016: Bone
+    100018: Bone.001
+    100020: Bone.002
+    100022: Bone.003
+    100024: Bone.004
+    100026: Bone.005
+    100028: Bone.005_end
+    100030: Bone.006
+    100032: Bone.007
+    100034: Bone.008
+    100036: Bone.009
+    100038: Bone.009_end
+    100040: Bone.010
+    100042: Bone.011
+    100044: Bone.012
+    100046: Bone.012_end
+    100048: Bone.013
+    100050: Bone.014
+    100052: Bone.015
+    100054: Bone.016
+    100056: Bone.017
+    100058: Bone.018
+    100060: Bone.018_end
+    100062: Bone.019
+    100064: Bone.020
+    100066: Bone.021
+    100068: Bone.022
+    100070: Bone.023
+    100072: Bone.024
+    100074: Bone.025
+    100076: Bone.026
+    100078: Bone.027
+    100080: Bone.028
+    100082: Bone.029
+    100084: Bone.030
+    100086: Bone.031
+    100088: Bone.031_end
+    100090: Bone.032
+    100092: Bone.032_end
+    100094: Bone.033
+    100096: Bone.033_end
+    100098: Bone.034
+    100100: Bone.034_end
+    100102: Bone.035
+    100104: Bone.036
+    100106: Bone.037
+    100108: Bone.038
+    100110: Bone.039
+    100112: Bone.040
+    100114: Bone.041
+    100116: Bone.041_end
+    100118: Bone.042
+    100120: Bone.043
+    100122: Bone.044
+    100124: Bone.045
+    100126: Bone.046
+    100128: Bone.047
+    100130: Bone.048
+    100132: Bone.049
+    100134: Bone.050
+    100136: Bone.051
+    100138: Bone.052
+    100140: Bone.053
+    100142: Bone.054
+    100144: Bone.054_end
+    100146: Bone.055
+    100148: Bone.055_end
+    100150: Bone.056
+    100152: Bone.056_end
+    100154: Bone.057
+    100156: Bone.057_end
+    100158: boot war1
+    100160: bproof war1 low
+    100162: Camera
+    100164: Camera_Interest
+    100166: hand war1 low
+    100168: head war1 low
+    100170: m box 1 war1 low
+    100172: m box 2 war1 low
+    100174: m box 3 war1 low
+    100176: mag 1 war1 low
+    100178: mag 2 war1 low
+    100180: mag 3 war1 low
+    100182: mag 4 war1 low
+    100184: rat war1 low
+    100186: s box war1 low
+    100188: sh war1 low
+    100190: shir war1 low
+    100192: //RootNode
+    100194: "\u0422\u043E\u0447\u043A\u0430"
+    400000: AK74M
+    400002: AK74M.001
+    400004: AK74M.002
+    400006: AK74M.003
+    400008: AK74M.004
+    400010: b pack war1 low
+    400012: base soldier1
+    400014: body add war1 low
+    400016: Bone
+    400018: Bone.001
+    400020: Bone.002
+    400022: Bone.003
+    400024: Bone.004
+    400026: Bone.005
+    400028: Bone.005_end
+    400030: Bone.006
+    400032: Bone.007
+    400034: Bone.008
+    400036: Bone.009
+    400038: Bone.009_end
+    400040: Bone.010
+    400042: Bone.011
+    400044: Bone.012
+    400046: Bone.012_end
+    400048: Bone.013
+    400050: Bone.014
+    400052: Bone.015
+    400054: Bone.016
+    400056: Bone.017
+    400058: Bone.018
+    400060: Bone.018_end
+    400062: Bone.019
+    400064: Bone.020
+    400066: Bone.021
+    400068: Bone.022
+    400070: Bone.023
+    400072: Bone.024
+    400074: Bone.025
+    400076: Bone.026
+    400078: Bone.027
+    400080: Bone.028
+    400082: Bone.029
+    400084: Bone.030
+    400086: Bone.031
+    400088: Bone.031_end
+    400090: Bone.032
+    400092: Bone.032_end
+    400094: Bone.033
+    400096: Bone.033_end
+    400098: Bone.034
+    400100: Bone.034_end
+    400102: Bone.035
+    400104: Bone.036
+    400106: Bone.037
+    400108: Bone.038
+    400110: Bone.039
+    400112: Bone.040
+    400114: Bone.041
+    400116: Bone.041_end
+    400118: Bone.042
+    400120: Bone.043
+    400122: Bone.044
+    400124: Bone.045
+    400126: Bone.046
+    400128: Bone.047
+    400130: Bone.048
+    400132: Bone.049
+    400134: Bone.050
+    400136: Bone.051
+    400138: Bone.052
+    400140: Bone.053
+    400142: Bone.054
+    400144: Bone.054_end
+    400146: Bone.055
+    400148: Bone.055_end
+    400150: Bone.056
+    400152: Bone.056_end
+    400154: Bone.057
+    400156: Bone.057_end
+    400158: boot war1
+    400160: bproof war1 low
+    400162: Camera
+    400164: Camera_Interest
+    400166: hand war1 low
+    400168: head war1 low
+    400170: m box 1 war1 low
+    400172: m box 2 war1 low
+    400174: m box 3 war1 low
+    400176: mag 1 war1 low
+    400178: mag 2 war1 low
+    400180: mag 3 war1 low
+    400182: mag 4 war1 low
+    400184: rat war1 low
+    400186: s box war1 low
+    400188: sh war1 low
+    400190: shir war1 low
+    400192: //RootNode
+    400194: "\u0422\u043E\u0447\u043A\u0430"
+    2000000: Camera
+    2100000: b pack war1
+    2100002: mag war1
+    2100004: m box war1
+    2100006: rat war1
+    2100008: "\u041C\u0430\u0442\u0435\u0440\u0438\u0430\u043B.016"
+    2100010: shir war1
+    2100012: hand war1
+    2100014: sh war1
+    2100016: boot war1
+    2100018: head war1
+    2100020: glass
+    2100022: bproof war1
+    2100024: body add war1
+    2300000: AK74M
+    2300002: AK74M.001
+    2300004: AK74M.002
+    2300006: AK74M.003
+    2300008: AK74M.004
+    2300010: b pack war1 low
+    2300012: m box 1 war1 low
+    2300014: m box 2 war1 low
+    2300016: m box 3 war1 low
+    2300018: mag 1 war1 low
+    2300020: mag 2 war1 low
+    2300022: mag 3 war1 low
+    2300024: mag 4 war1 low
+    2300026: rat war1 low
+    2300028: s box war1 low
+    3300000: AK74M
+    3300002: AK74M.001
+    3300004: AK74M.002
+    3300006: AK74M.003
+    3300008: AK74M.004
+    3300010: b pack war1 low
+    3300012: m box 1 war1 low
+    3300014: m box 2 war1 low
+    3300016: m box 3 war1 low
+    3300018: mag 1 war1 low
+    3300020: mag 2 war1 low
+    3300022: mag 3 war1 low
+    3300024: mag 4 war1 low
+    3300026: rat war1 low
+    3300028: s box war1 low
+    4300000: b pack war1 low
+    4300002: mag 2 war1 low
+    4300004: mag 3 war1 low
+    4300006: m box 1 war1 low
+    4300008: m box 2 war1 low
+    4300010: m box 3 war1 low
+    4300012: mag 4 war1 low
+    4300014: rat war1 low
+    4300016: mag 1 war1 low
+    4300018: s box war1 low
+    4300020: AK74M
+    4300022: AK74M.001
+    4300024: AK74M.002
+    4300026: AK74M.003
+    4300028: AK74M.004
+    4300030: shir war1 low
+    4300032: hand war1 low
+    4300034: sh war1 low
+    4300036: boot war1
+    4300038: head war1 low
+    4300040: bproof war1 low
+    4300042: body add war1 low
+    7400000: base soldier1|base soldier1Action
+    7400002: base soldier1|Camera_Interest|Take 001|BaseLayer
+    7400004: base soldier1|Camera|Take 001|BaseLayer
+    7400006: Camera|Camera_Interest|Take 001|BaseLayer
+    7400008: Camera|Camera|Take 001|BaseLayer
+    7400010: Camera_Interest|Camera_Interest|Take 001|BaseLayer
+    7400012: Camera_Interest|Camera|Take 001|BaseLayer
+    7400014: base soldier1|Camera_Interest|Take 001|BaseLayer (1)
+    9500000: //RootNode
+    10800000: "\u0422\u043E\u0447\u043A\u0430"
+    13700000: body add war1 low
+    13700002: boot war1
+    13700004: bproof war1 low
+    13700006: hand war1 low
+    13700008: head war1 low
+    13700010: sh war1 low
+    13700012: shir war1 low
+    2186277476908879412: ImportLogs
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 1
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: base soldier1|base soldier1Action
+      takeName: base soldier1|base soldier1Action
+      firstFrame: 0
+      lastFrame: 300
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 30
+    - serializedVersion: 16
+      name: base soldier1|Camera_Interest|Take 001|BaseLayer
+      takeName: base soldier1|Camera_Interest|Take 001|BaseLayer
+      firstFrame: 0
+      lastFrame: 1
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: base soldier1|Camera|Take 001|BaseLayer
+      takeName: base soldier1|Camera|Take 001|BaseLayer
+      firstFrame: 0
+      lastFrame: 1
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Camera|Camera_Interest|Take 001|BaseLayer
+      takeName: Camera|Camera_Interest|Take 001|BaseLayer
+      firstFrame: 0
+      lastFrame: 1
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Camera|Camera|Take 001|BaseLayer
+      takeName: Camera|Camera|Take 001|BaseLayer
+      firstFrame: 0
+      lastFrame: 1
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Camera_Interest|Camera_Interest|Take 001|BaseLayer
+      takeName: Camera_Interest|Camera_Interest|Take 001|BaseLayer
+      firstFrame: 0
+      lastFrame: 1
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Camera_Interest|Camera|Take 001|BaseLayer
+      takeName: Camera_Interest|Camera|Take 001|BaseLayer
+      firstFrame: 0
+      lastFrame: 1
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
